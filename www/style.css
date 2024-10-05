@@ -1,0 +1,25 @@
+/* www/style.css */
+
+
+.espace-entre-texte-et-image {
+  margin-bottom: 20px; /* Vous pouvez ajuster la valeur selon votre préférence */
+}
+
+/* Centrer un texte */
+.centered {
+  text-align: center;
+}
+
+/* Justifier un texte */
+.justifier-texte {
+  text-align: justify;
+}
+
+/* Ajuster la taille du texte des boutons en fonction de la taille de la fenêtre */
+.btn {
+  text-align: center;
+  font-size: 0.75vw; /* ou toute autre valeur appropriée */
+}
+
+
+

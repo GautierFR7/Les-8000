@@ -1,0 +1,12 @@
+name: Projet_visualisation_R
+title: Projet_visualisation_R
+username: gautierfr
+account: gautierfr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11499601
+bundleId: 8382897
+url: https://gautierfr.shinyapps.io/Projet_visualisation_R/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
