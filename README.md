@@ -1,19 +1,3 @@
----
-title: "Présentation du projet"
-author: "BIHEL Léo, FRANCOIS Gautier, MARSAC Gabin"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    df_print: paged
-  rmdformats::downcute:
-    downcute_theme: chaos
-    highlight: tango
-    number_sections: yes
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 Lien vers l'application : [https://gautierfr.shinyapps.io/Projet_visualisation_R/](https://gautierfr.shinyapps.io/Projet_visualisation_R/)
 
